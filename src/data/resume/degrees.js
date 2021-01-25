@@ -1,14 +1,15 @@
+// TODO: PM Verify
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Johns Hopkins University',
+    degree: 'M.S. Biochemistry and Molecular Biology',
+    link: 'https://www.jhsph.edu/departments/biochemistry-and-molecular-biology/',
+    year: 2018,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
+    school: 'Morgan State University',
+    degree: 'B.S. Chemistry',
+    link: 'https://www.morgan.edu/chemistry',
     year: 2012,
   },
 ];
