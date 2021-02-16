@@ -1,4 +1,3 @@
-// TODO: PM Verify
 const degrees = [
   {
     school: 'Johns Hopkins University',
