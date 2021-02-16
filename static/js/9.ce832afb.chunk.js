@@ -1,0 +1,2 @@
+(this["webpackJsonppersonal-site"]=this["webpackJsonppersonal-site"]||[]).push([[9],{161:function(s,e,t){"use strict";t.r(e);var n=t(0),a=(t(1),t(18));e.default=function(){return Object(n.jsx)(a.a,{description:"Pola Olczak's personal website."})}}}]);
+//# sourceMappingURL=9.ce832afb.chunk.js.map
