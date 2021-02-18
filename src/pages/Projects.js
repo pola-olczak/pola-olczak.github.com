@@ -15,9 +15,11 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
-          <p>A selection of projects that I&apos;m not too ashamed of</p>
+          <p>A curated selection of impactful projects</p>
         </div>
       </header>
+      This section is under construction, please return later to see project details!
+
       {data.map((project) => (
         <Cell
           data={project}
