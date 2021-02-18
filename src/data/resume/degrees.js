@@ -9,7 +9,7 @@ const degrees = [
     school: 'Morgan State University',
     degree: 'B.S. Chemistry',
     link: 'https://www.morgan.edu/chemistry',
-    year: 2012,
+    year: 2011,
   },
 ];
 
