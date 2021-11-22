@@ -2,7 +2,7 @@
 # Intro
 
 I am a PhD candidate in Pathobiology at the Johns Hopkins University School of Medicine working on 
-I work on HPV vaccine development. I am team player who understand team cohesion is pivotal to success.
+HPV vaccine development. I am team player who understand team cohesion is pivotal to success.
 
 
 My scientific and professional interest and experience is broad and ranges from epidemiology, to drug development for
@@ -21,7 +21,7 @@ work conducted by this community to reach millions of people, is something that 
 <!-- 
 # My Professional Goals
 I enjoy technical consulting because it provides me with a platform to utilize my love for interpersonal
-interactions and ...
+interactions and allows me to think critically to find a solution to a real problem. 
 
 I would love to have the public health equivalent of the impact [Microsoft](https://www.microsoft.com/) and [Google](https://google.com) have had for us all .... -->
 
