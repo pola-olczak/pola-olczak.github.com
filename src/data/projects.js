@@ -1,17 +1,14 @@
-// TODO Add a couple lines about each project
 const data = [
-//   {
-//     title: 'Nearest Dollar',
-//     subtitle: '2015 BVP Hackathon',
-//     link: '/projects/nearestdollar/',
-//     image: '/images/projects/nearestdollar.jpg',
-//     date: '2015-11-20',
-//     desc:
-//       'Built for a social impact hackathon. '
-//       + 'NearestDollar connected to your bank accounts, credit cards, '
-//       + 'or debit cards and rounded up your purchases to donate the balance to '
-//       + 'the charity of your choice.',
-//   },
+  {
+    title: 'Assessment of L2-based HPV targeting HPV',
+    // subtitle: '',
+    // link: '',
+    image: '/images/projects/coming-soon.jpg',
+    date: '2019',
+    desc:
+      'Synthesized peptide vaccine composed of RG1 regions of L2 minocapsid protein '
+      + 'of various HPV types. ',
+  },
 //   {
 //     title: 'Harvest',
 //     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
