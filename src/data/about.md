@@ -1,8 +1,8 @@
 
 # Intro
 
-I am a PhD candidate in Pathobiology at the Johns Hopkins University School of Medicine working on 
-HPV vaccine development. I am team player who understand team cohesion is pivotal to success.
+I am a PhD candidate in Pathobiology at the Johns Hopkins University, School of Medicine working on
+HPV vaccine development. I am team player who understands team cohesion is pivotal to success.
 
 
 My scientific and professional interest and experience is broad and ranges from epidemiology, to drug development for
@@ -28,7 +28,6 @@ I would love to have the public health equivalent of the impact [Microsoft](http
 
 # My Hobbies
 
-- I was an NCAA Division 1 tennis player as an undergraduate, and still love playing tennis to this day.
+- I was an NCAA Division 1 tennis player as an undergraduate, and still love playing tennis.
 - I enjoy travelling, sightseeing, and all nature has to offer.
 - In a past life I was an avid skier, but recently have begun to prefer snowboarding.
-

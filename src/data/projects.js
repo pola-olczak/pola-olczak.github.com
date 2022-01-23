@@ -41,8 +41,8 @@ const data = [
     date: '2020',
     desc:
         'In collaboration with a biotech company, I helped to evaluate the results of a clinical '
-        + 'trial. The chimeric  viral-like particle (VLP) vaccine was developed. Sera from vaccinated '
-        + 'patients were collected by the company and assessed by me for protection against various '
+        + 'trial. A group of patients were vaccinated with a chimeric viral-like particle (VLP) vaccine. Sera from vaccinated '
+        + 'patients were collected by the company and assessed by me for protection against various disease-relevant '
         + 'alpha and beta HPV types by passive vaccination in mice. ',
   },
 ];
