@@ -18,14 +18,15 @@ const Projects = () => (
           <p>A curated selection of impactful projects</p>
         </div>
       </header>
-      This section is under construction, please return later to see project details!
 
-      {data.map((project) => (
-        <Cell
-          data={project}
-          key={project.title}
-        />
-      ))}
+      <b>
+        {data.map((project) => (
+          <Cell
+            data={project}
+            key={project.title}
+          />
+        ))}
+      </b>
     </article>
   </Main>
 );
