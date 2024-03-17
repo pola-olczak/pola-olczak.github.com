@@ -1,5 +1,18 @@
 const positions = [
   {
+    company: 'Covaris',
+    position: 'Field Application Scientist',
+    link: 'https://www.covaris.com/',
+    daterange: 'June 2022 - Present',
+    points: [
+      'Provide technical expertise and customer education for Genomics, Epigenetics, and Proteomics workflow solutions',
+      'Create and manage technical resources and scientific collaborations',
+      'Liaise between customers, Sales, Marketing, R&D and customers',
+      'Partner with Sales team and serve as a technical expert to drive sales and provide technical support',
+      'Arrange and perform demonstration of company’s products and their applications',
+    ],
+  },
+  {
     company: 'PathoVax',
     position: 'Research Specialist',
     link: 'https://www.pathovax.com/',

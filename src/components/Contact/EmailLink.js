@@ -9,8 +9,8 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'pola',
-  'polczak2',
+  'polaolczak7',
+  'polaolczak7',
 ];
 
 const useInterval = (callback, delay) => {
@@ -63,9 +63,9 @@ const EmailLink = () => {
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
-      <a href={validateText(message) ? `mailto:${message}@jhu.edu` : ''}>
+      <a href={validateText(message) ? `mailto:${message}@gmail.com` : ''}>
         <span>{message}</span>
-        <span>@jhu.edu</span>
+        <span>@gmail.com</span>
       </a>
     </div>
   );

@@ -1,6 +1,12 @@
 const degrees = [
   {
     school: 'Johns Hopkins University',
+    degree: 'Ph.D. Pathobiology',
+    link: 'https://pathology.jhu.edu/education/phd-program',
+    year: 2022,
+  },
+  {
+    school: 'Johns Hopkins University',
     degree: 'M.S. Biochemistry and Molecular Biology',
     link: 'https://www.jhsph.edu/departments/biochemistry-and-molecular-biology/',
     year: 2018,

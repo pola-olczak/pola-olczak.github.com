@@ -1,5 +1,46 @@
-// TODO: PO Update
 const courses = [
+  {
+    title: 'Biochemical and Biophysical principles',
+    number: 'ME100.710',
+    link: 'https://publichealth.jhu.edu/courses',
+    university: 'Johns Hopkins',
+  },
+  {
+    title: 'Biochemistry',
+    number: 'PH.120.840',
+    link: 'https://publichealth.jhu.edu/courses',
+    university: 'Johns Hopkins',
+  },
+  {
+    title: 'Biochemical Techniques',
+    number: 'PH.120.850',
+    link: 'https://publichealth.jhu.edu/courses',
+    university: 'Johns Hopkins',
+  },
+  {
+    title: 'Core Research Literature',
+    number: 'PH.120.852',
+    link: 'https://publichealth.jhu.edu/courses',
+    university: 'Johns Hopkins',
+  },
+  {
+    title: 'Molecular Biology and Genomics',
+    number: 'ME260.709',
+    link: 'https://publichealth.jhu.edu/courses',
+    university: 'Johns Hopkins',
+  },
+  {
+    title: 'Genome Integrity and Cancer',
+    number: 'PH120.624',
+    link: 'https://publichealth.jhu.edu/courses',
+    university: 'Johns Hopkins',
+  },
+  {
+    title: 'Statistical reasoning in Public Health 1 / 2',
+    number: 'PH140.611/612',
+    link: 'https://publichealth.jhu.edu/courses',
+    university: 'Johns Hopkins',
+  },
   {
     title: 'Macromolecular Structure and Analysis',
     number: 'ME:100.709',

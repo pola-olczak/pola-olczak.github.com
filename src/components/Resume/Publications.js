@@ -28,6 +28,18 @@ const Publications = () => (
           MCF-7 and hormone-independent triple-negative MDA-MB-231 breast cancer cells.&quot;
           Molecular Cellular Biochemistry.
         </li>
+        <li>
+          Olczak P, Wong M, Tsai HL, Wang H, Kirnbauer R, Griffith AJ, Lambert PF,
+          Roden R. Vaccination with human alphapapillomavirus-derived L2 multimer
+          protects against human betapapillomavirus challenge, including in
+          epidermodysplasia verruciformis model mice. Virology. 2022;575.
+        </li>
+        <li>
+          Olczak P, Matsui K, Wong M, Alvarez J, Lambert P, Christensen ND,
+          Hu J, Huber B, Kirnbauer R, Wang JW, Roden RBS. RG2-VLP: a Vaccine
+          Designed to Broadly Protect against Anogenital and Skin Human Papillomaviruses
+          Causing Human Cancer. J Virol. 2022;96(13).
+        </li>
       </ul>
     </p>
   </div>
