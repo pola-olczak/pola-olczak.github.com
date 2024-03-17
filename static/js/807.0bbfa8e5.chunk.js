@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpersonal_site=self.webpackChunkpersonal_site||[]).push([[807],{9807:(s,e,a)=>{a.r(e),a.d(e,{default:()=>n});a(5043);var l=a(6551),t=a(579);const n=()=>(0,t.jsx)(l.A,{description:"Pola Olczak's personal website."})}}]);
+//# sourceMappingURL=807.0bbfa8e5.chunk.js.map
