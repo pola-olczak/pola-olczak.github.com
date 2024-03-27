@@ -1,11 +1,12 @@
 import React from 'react';
-import { hydrateRoot, createRoot } from 'react-dom';
+import { hydrate, render } from 'react-dom';
 import App from './App';
 
 const rootElement = document.getElementById('root');
 
+// hydrate is required by react-snap.
 if (rootElement.hasChildNodes()) {
-  hydrateRoot(<App />, rootElement);
+  hydrate(<App />, rootElement);
 } else {
-  createRoot(<App />, rootElement);
+  render(<App />, rootElement);
 }
